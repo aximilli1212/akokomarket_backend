@@ -28,7 +28,7 @@
     "nodemailer": "^6.1.0",
     "on-finished": "^2.3.0",
     "pusher": "^2.1.2",
-    "sequelize": "^4.38.0",
+    "sequelize": "^5.15.1",
     "sequelize-json-serializer": "^1.1.0",
     "sequelize-models": "^1.4.0",
     "short-unique-id": "^1.1.1",
